@@ -1,0 +1,1 @@
+adb logcat|ndk-stack -sym build\intermediates\cmake\debug\obj\armeabi-v7a
